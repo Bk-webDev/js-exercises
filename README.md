@@ -19,8 +19,7 @@ It also serves as a place to experiment, review my progress, and track improveme
 
 Clone the repository:
 
-git clone https://github.com/
-Bk-webDev/js-exercises.git
+git clone https://github.com/Bk-webDev/js-exercises.git
 
 Open any .js file in your editor.
 Run the script using:
